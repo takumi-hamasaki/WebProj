@@ -1,4 +1,4 @@
-package com. diworksdev.webproj.action;
+package com.diworksdev.webproj.action;
 
 import com.opensymphony.xwork2.ActionSupport;
 
